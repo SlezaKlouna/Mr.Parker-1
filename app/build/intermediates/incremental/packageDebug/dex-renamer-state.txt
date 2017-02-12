@@ -1,4 +1,7 @@
-#Sun Feb 12 18:19:10 EET 2017
-base.0=C\:\\Users\\Anton Rynkovoy\\Desktop\\Mr.Parker\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+#Sun Feb 12 20:19:52 EET 2017
+base.0=P\:\\Android\\Projects\\Mr.Parker\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_56d915f13eda8723488c9f416adb1e9a9c005e36
+renamed.1=classes2.dex
 renamed.0=classes.dex
-file.0=C\:\\Users\\Anton Rynkovoy\\Desktop\\Mr.Parker\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex
+file.1=P\:\\Android\\Projects\\Mr.Parker\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_d508458a724b2dbcbee38b0baa8fcf6f9ecbc602\\classes.dex
+base.1=P\:\\Android\\Projects\\Mr.Parker\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_d508458a724b2dbcbee38b0baa8fcf6f9ecbc602
+file.0=P\:\\Android\\Projects\\Mr.Parker\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_56d915f13eda8723488c9f416adb1e9a9c005e36\\classes.dex

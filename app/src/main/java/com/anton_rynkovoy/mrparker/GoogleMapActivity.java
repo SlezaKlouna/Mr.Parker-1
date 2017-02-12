@@ -29,9 +29,9 @@ public class GoogleMapActivity extends AppCompatActivity
 
     //private HashMap<Integer, Marker> markers = new HashMap<>();
 
-    private String[] mPlanetTitles;
-    private DrawerLayout mDrawerLayout;
-    private ListView mDrawerList;
+//    private String[] mPlanetTitles;
+//    private DrawerLayout mDrawerLayout;
+//    private ListView mDrawerList;
 
     double lat;
     double lon;
@@ -43,18 +43,18 @@ public class GoogleMapActivity extends AppCompatActivity
         mapFragment = (MapFragment) getFragmentManager().findFragmentById(R.id.map);
         mapFragment.getMapAsync(this);
 
-        mPlanetTitles = getResources().getStringArray(R.array.drawer_titles);
-        mDrawerLayout = (DrawerLayout) findViewById(R.id.drawer_layout);
-        mDrawerList = (ListView) findViewById(R.id.left_drawer);
-
-        mDrawerList.setAdapter(new ArrayAdapter<String>(this,
-                R.layout.drawer_list_item, mPlanetTitles));
+//        mPlanetTitles = getResources().getStringArray(R.array.drawer_titles);
+//        mDrawerLayout = (DrawerLayout) findViewById(R.id.drawer_layout);
+//        mDrawerList = (ListView) findViewById(R.id.left_drawer);
+//
+//        mDrawerList.setAdapter(new ArrayAdapter<String>(this,
+//                R.layout.drawer_list_item, mPlanetTitles));
 //        // Set the list's click listener
 //        mDrawerList.setOnItemClickListener(new DrawerItemClickListener());
 
         Intent intent = getIntent();
-            lat = intent.getDoubleExtra("lat", 0);
-            lon = intent.getDoubleExtra("lon", 0);
+        lat = intent.getDoubleExtra("lat", 0);
+        lon = intent.getDoubleExtra("lon", 0);
     }
 
     @Override

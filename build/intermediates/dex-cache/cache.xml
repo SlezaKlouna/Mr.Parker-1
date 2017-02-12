@@ -2,157 +2,157 @@
 <items version="2" >
 
     <item
-        is-multidex="false"
-        jar="C:\Users\Anton Rynkovoy\Desktop\Mr.Parker\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
-        <dex dex="C:\Users\Anton Rynkovoy\Desktop\Mr.Parker\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.1.1_875a15683b92cfb10f283d4652dad4b7f441b3c9.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Anton Rynkovoy\Desktop\Mr.Parker\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\10.0.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
-        <dex dex="C:\Users\Anton Rynkovoy\Desktop\Mr.Parker\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tasks-10.0.1_58bb80d9c681ec1d7f41dbe4373f80fcc6f39e02.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Anton Rynkovoy\Desktop\Mr.Parker\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\10.0.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="27777b3cad3c20b1acab19f6e37fe3e03371bf6e">
-        <dex dex="C:\Users\Anton Rynkovoy\Desktop\Mr.Parker\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-maps-10.0.1_23072a3c70e7d736848cb04ea788519a6cc126d6.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Anton Rynkovoy\Desktop\Mr.Parker\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="1fff1d22d62c78d4337d5c363130ea2867d2a2fd">
-        <dex dex="C:\Users\Anton Rynkovoy\Desktop\Mr.Parker\app\build\intermediates\pre-dexed\debug\instant-run_2342855b77c440261c7c064280d760e4ea267a16.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Anton Rynkovoy\Desktop\Mr.Parker\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
-        <dex dex="C:\Users\Anton Rynkovoy\Desktop\Mr.Parker\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.1.1_b2a31f240705d81ea293d24649a232c9739cd487.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Anton Rynkovoy\Desktop\Mr.Parker\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
-        <dex dex="C:\Users\Anton Rynkovoy\Desktop\Mr.Parker\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.1.1_d9841752c491caccf53febe4b6beb41c454f44e7.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Anton Rynkovoy\Desktop\Mr.Parker\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.1\jars\classes.jar"
+        is-multidex="true"
+        jar="P:\Android\Projects\Mr.Parker\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.1\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
         sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="C:\Users\Anton Rynkovoy\Desktop\Mr.Parker\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.1.1_2d46ed6848fae18ab557f82d1647c0269db21df3.jar" />
+        <dex dex="P:\Android\Projects\Mr.Parker\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.1.1_fd999fe9dbe5ed82513886386a78543dac8d71da\classes.dex" />
     </item>
     <item
-        is-multidex="false"
-        jar="C:\Users\Anton Rynkovoy\Desktop\Mr.Parker\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        is-multidex="true"
+        jar="P:\Android\Projects\Mr.Parker\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.1\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="daca00323c7c5aedb195e3620708eacdb9746905">
-        <dex dex="C:\Users\Anton Rynkovoy\Desktop\Mr.Parker\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_ba2a5d67221b2a9e94ce24d8e107a406aade7302.jar" />
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="P:\Android\Projects\Mr.Parker\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.1.1_d1ef9def9385c40d629266c4fbf500f9186d4acc\classes.dex" />
     </item>
     <item
-        is-multidex="false"
-        jar="C:\Users\Anton Rynkovoy\Desktop\Mr.Parker\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.1\jars\classes.jar"
+        is-multidex="true"
+        jar="P:\Android\Projects\Mr.Parker\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.1\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
         sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
-        <dex dex="C:\Users\Anton Rynkovoy\Desktop\Mr.Parker\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.1.1_bbddcd67c26a34cd9dee9292d5ee8e234423837e.jar" />
+        <dex dex="P:\Android\Projects\Mr.Parker\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.1.1_2ccbb25f8cb3269909601ba64f0fafca5ec730ab\classes.dex" />
     </item>
     <item
-        is-multidex="false"
-        jar="C:\Users\Anton Rynkovoy\Desktop\Mr.Parker\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.1\jars\classes.jar"
+        is-multidex="true"
+        jar="P:\Android\Projects\Mr.Parker\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.1\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
         sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
-        <dex dex="C:\Users\Anton Rynkovoy\Desktop\Mr.Parker\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.1.1_9d4290ffcba713be63a7616926db2f249ebe3262.jar" />
+        <dex dex="P:\Android\Projects\Mr.Parker\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.1.1_5663fce69dc4a9bf6f6c1cbb6d252deb63e2e681\classes.dex" />
     </item>
     <item
-        is-multidex="false"
-        jar="C:\Users\Anton Rynkovoy\Desktop\Mr.Parker\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\10.0.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="25438f55fc6d906a0e72f30b21487541430ede43">
-        <dex dex="C:\Users\Anton Rynkovoy\Desktop\Mr.Parker\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-10.0.1_003de40ce98963b391e354174af7bd1bb5730733.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Anton Rynkovoy\Desktop\Mr.Parker\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
-        <dex dex="C:\Users\Anton Rynkovoy\Desktop\Mr.Parker\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.1.1_c49d515caf13c133cf241cb90199529f77724b32.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Anton Rynkovoy\Desktop\Mr.Parker\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
-        <dex dex="C:\Users\Anton Rynkovoy\Desktop\Mr.Parker\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.1.1_6b93d126e09ad2d224a1a9a5c822be971067f8d1.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Anton Rynkovoy\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.1\support-annotations-25.1.1.jar"
+        is-multidex="true"
+        jar="P:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.1\support-annotations-25.1.1.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
         sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
-        <dex dex="C:\Users\Anton Rynkovoy\Desktop\Mr.Parker\app\build\intermediates\pre-dexed\debug\support-annotations-25.1.1_f1cde0a990514bd7a8c78cfd89b4751599b1caa4.jar" />
+        <dex dex="P:\Android\Projects\Mr.Parker\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.1.1_b647692dee482916c9710ad5a7794cd20a9f1fe0\classes.dex" />
     </item>
     <item
-        is-multidex="false"
-        jar="C:\Users\Anton Rynkovoy\Desktop\Mr.Parker\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
-        <dex dex="C:\Users\Anton Rynkovoy\Desktop\Mr.Parker\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.1.1_b708202179e161d6ac819826f5fb9c8fe79f5530.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Anton Rynkovoy\Desktop\Mr.Parker\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\10.0.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="44a694d4095be84c2888764b1f7256b385c030ad">
-        <dex dex="C:\Users\Anton Rynkovoy\Desktop\Mr.Parker\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-location-10.0.1_dad507ea4010ea92d39b30e3288da3268d91b7e0.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Anton Rynkovoy\Desktop\Mr.Parker\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\10.0.1\jars\classes.jar"
+        is-multidex="true"
+        jar="P:\Android\Projects\Mr.Parker\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\10.0.1\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
         sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
-        <dex dex="C:\Users\Anton Rynkovoy\Desktop\Mr.Parker\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-10.0.1_218b86898fec364686ffea6c9b5a088a52a9b51a.jar" />
+        <dex dex="P:\Android\Projects\Mr.Parker\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-10.0.1_e5c1651607289a3503182ff7dbc5a745a747cac1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="P:\Android\Projects\Mr.Parker\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="P:\Android\Projects\Mr.Parker\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.1.1_4912660a88f40d41c40494ffdf67ac0cc6c6abf0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="P:\Android\Projects\Mr.Parker\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="P:\Android\Projects\Mr.Parker\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.1.1_9b95d125ea7dab34cdf776fed676a3a4693be9e9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="P:\Android\Projects\Mr.Parker\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="P:\Android\Projects\Mr.Parker\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.1.1_0fbcd889e33d1ff0eb5717511b437df3bc56505d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="P:\Android\Projects\Mr.Parker\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="55574bd4be8ee48d8a9b5a8b544e570438d0f266">
+        <dex dex="P:\Android\Projects\Mr.Parker\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_56d915f13eda8723488c9f416adb1e9a9c005e36\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="P:\Android\Projects\Mr.Parker\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="P:\Android\Projects\Mr.Parker\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tasks-10.0.1_e2cd6718ed1dfa1f3a697da50291a2092752060e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="P:\Android\Projects\Mr.Parker\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="P:\Android\Projects\Mr.Parker\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.1.1_4c0de06ae84d0c0965fe10c5c2e4972693033075\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="P:\Android\Projects\Mr.Parker\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7a8873c8a0c3cf1e08420f55d7a6706999b64ca2">
+        <dex dex="P:\Android\Projects\Mr.Parker\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_d508458a724b2dbcbee38b0baa8fcf6f9ecbc602\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="P:\Android\Projects\Mr.Parker\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="P:\Android\Projects\Mr.Parker\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.1.1_a4a93525dc0f7076b088c82cea4ce4c5592460f1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="P:\Android\Projects\Mr.Parker\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="27777b3cad3c20b1acab19f6e37fe3e03371bf6e">
+        <dex dex="P:\Android\Projects\Mr.Parker\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-maps-10.0.1_27b6b38ffbbbb16da3a3d9956e93617fdf1ce271\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="P:\Android\Projects\Mr.Parker\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44a694d4095be84c2888764b1f7256b385c030ad">
+        <dex dex="P:\Android\Projects\Mr.Parker\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-location-10.0.1_434f03b928ac75783d02e1bb82660466adcc52fd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="P:\Android\Projects\Mr.Parker\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="25438f55fc6d906a0e72f30b21487541430ede43">
+        <dex dex="P:\Android\Projects\Mr.Parker\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-10.0.1_0611e763096b92b726daf87035d150019102e41e\classes.dex" />
     </item>
 
 </items>
