@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Mr.Parker</string>
+    <string name="btn_okay">Okay</string>
+    <string name="pickYourCity">Выберите город</string>
+    <string-array name="cities">
+        <item>Odessa</item>
+        <item>Kiev</item>
+        <item>Nikolaev</item>
+    </string-array>
+    <string-array name="drawer_titles">
+        <item>Settings</item>
+        <item>Write developers</item>
+        <item>About</item>
+    </string-array>
+</resources>
